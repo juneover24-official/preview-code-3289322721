@@ -1,7 +1,7 @@
 {
   "qq_number": "3289322721",
   "group_number": "4567890",
-  "updated_at": "2026-11-08T09:56:54+00:00",
+  "updated_at": "2026-11-08T09:57:05+00:00",
   "skins": [
     {
       "name": "冰の甜心动",
@@ -156,6 +156,13 @@
       "thumb": "冰_重度依赖.bds_py_26_light_thumb.png",
       "full": "冰_重度依赖.bds_py_26_light_thumb.png",
       "file_id": "asset_8dcea9ef30ce4f4aa7a4a7e4f1201713"
+    },
+    {
+      "name": "冰の重度依赖",
+      "file": "冰_重度依赖.bdi",
+      "thumb": "冰_重度依赖.bdi_py_26_light_thumb.png",
+      "full": "冰_重度依赖.bdi_py_26_light_thumb.png",
+      "file_id": "asset_f28ab795658d472091ce3e28e0b2d826"
     }
   ]
 }
