@@ -1,7 +1,7 @@
 {
   "qq_number": "3289322721",
   "group_number": "4567890",
-  "updated_at": "2026-11-08T09:57:09+00:00",
+  "updated_at": "2026-11-08T09:57:16+00:00",
   "skins": [
     {
       "name": "冰の甜心动",
@@ -170,6 +170,13 @@
       "thumb": "冰_甜心织梦.bds_py_26_light_thumb.png",
       "full": "冰_甜心织梦.bds_py_26_light_thumb.png",
       "file_id": "asset_2a27792b973e4086905eb5010eaf935a"
+    },
+    {
+      "name": "冰の甜心织梦",
+      "file": "冰_甜心织梦.bdi",
+      "thumb": "冰_甜心织梦.bdi_py_26_light_thumb.png",
+      "full": "冰_甜心织梦.bdi_py_26_light_thumb.png",
+      "file_id": "asset_5e56cec3116f44af9b401064b1899555"
     }
   ]
 }
