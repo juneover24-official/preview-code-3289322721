@@ -1,7 +1,7 @@
 {
   "qq_number": "3289322721",
   "group_number": "4567890",
-  "updated_at": "2026-11-08T09:57:21+00:00",
+  "updated_at": "2026-11-08T09:57:25+00:00",
   "skins": [
     {
       "name": "冰の甜心动",
@@ -184,6 +184,13 @@
       "thumb": "冰_抖音表情包大动效.bdi_py_26_light_thumb.png",
       "full": "冰_抖音表情包大动效.bdi_py_26_light_thumb.png",
       "file_id": "asset_a6d7e4f4f39545ceaca378a75d1972ee"
+    },
+    {
+      "name": "冰の抖音表情包",
+      "file": "冰_抖音表情包.bds",
+      "thumb": "冰_抖音表情包.bds_py_26_light_thumb.png",
+      "full": "冰_抖音表情包.bds_py_26_light_thumb.png",
+      "file_id": "asset_9a81b82f0cac4262b729b35abceec3ab"
     }
   ]
 }
