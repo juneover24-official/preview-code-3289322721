@@ -1,7 +1,7 @@
 {
   "qq_number": "3289322721",
   "group_number": "4567890",
-  "updated_at": "2026-11-08T09:55:29+00:00",
+  "updated_at": "2026-11-08T09:55:34+00:00",
   "skins": [
     {
       "name": "冰の甜心动",
@@ -65,6 +65,13 @@
       "thumb": "冰_老头蹲坑.bdi_py_26_light_thumb.png",
       "full": "冰_老头蹲坑.bdi_py_26_light_thumb.png",
       "file_id": "asset_0af145b4036b448fb63a5ef640229e3f"
+    },
+    {
+      "name": "冰の老头蹲坑",
+      "file": "冰_老头蹲坑.bds",
+      "thumb": "冰_老头蹲坑.bds_py_26_light_thumb.png",
+      "full": "冰_老头蹲坑.bds_py_26_light_thumb.png",
+      "file_id": "asset_5e5f4c121a134946add1bbb5e3a66eb1"
     }
   ]
 }
