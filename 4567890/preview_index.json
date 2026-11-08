@@ -1,7 +1,7 @@
 {
   "qq_number": "3289322721",
   "group_number": "4567890",
-  "updated_at": "2026-11-08T09:55:12+00:00",
+  "updated_at": "2026-11-08T09:55:19+00:00",
   "skins": [
     {
       "name": "冰の甜心动",
@@ -51,6 +51,13 @@
       "thumb": "冰_料理鼠王.bds_py_26_light_thumb.png",
       "full": "冰_料理鼠王.bds_py_26_light_thumb.png",
       "file_id": "asset_f18ae750007546bd9fa1b50a9ee11a6a"
+    },
+    {
+      "name": "冰の料理鼠王",
+      "file": "冰_料理鼠王.bdi",
+      "thumb": "冰_料理鼠王.bdi_py_26_light_thumb.png",
+      "full": "冰_料理鼠王.bdi_py_26_light_thumb.png",
+      "file_id": "asset_62f27627d9844821a6531d5c53b8904b"
     }
   ]
 }
