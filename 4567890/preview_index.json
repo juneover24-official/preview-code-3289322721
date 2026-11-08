@@ -1,7 +1,7 @@
 {
   "qq_number": "3289322721",
   "group_number": "4567890",
-  "updated_at": "2026-11-08T09:54:54+00:00",
+  "updated_at": "2026-11-08T09:54:58+00:00",
   "skins": [
     {
       "name": "冰の甜心动",
@@ -30,6 +30,13 @@
       "thumb": "冰_甜心动.bds_py_26_light_thumb.png",
       "full": "冰_甜心动.bds_py_26_light_thumb.png",
       "file_id": "asset_6dd22731d84141949d3fce4a445922be"
+    },
+    {
+      "name": "冰の少女碗",
+      "file": "冰_少女碗.bds",
+      "thumb": "冰_少女碗.bds_py_26_light_thumb.png",
+      "full": "冰_少女碗.bds_py_26_light_thumb.png",
+      "file_id": "asset_e8e3885b15144f16968729e4adcda0e2"
     }
   ]
 }
