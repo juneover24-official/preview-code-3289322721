@@ -1,7 +1,7 @@
 {
   "qq_number": "3289322721",
   "group_number": "4567890",
-  "updated_at": "2026-11-08T09:58:56+00:00",
+  "updated_at": "2026-11-08T10:20:28+00:00",
   "skins": [
     {
       "name": "冰の甜心动",
@@ -289,6 +289,13 @@
       "thumb": "冰_止痛药.bdi_py_26_light_thumb.png",
       "full": "冰_止痛药.bdi_py_26_light_thumb.png",
       "file_id": "asset_3d2cc2dbfe864318bdf1d6e293d87d73"
+    },
+    {
+      "name": "冰の小猫爪",
+      "file": "冰_小猫爪.bds",
+      "thumb": "冰_小猫爪.bds_py_26_light_thumb.png",
+      "full": "冰_小猫爪.bds_py_26_light_thumb.png",
+      "file_id": "asset_d2a22a406d134a518c48d68a5256b19c"
     }
   ]
 }
