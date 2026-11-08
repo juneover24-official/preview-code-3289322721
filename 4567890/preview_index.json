@@ -1,7 +1,7 @@
 {
   "qq_number": "3289322721",
   "group_number": "4567890",
-  "updated_at": "2026-11-08T09:54:49+00:00",
+  "updated_at": "2026-11-08T09:54:54+00:00",
   "skins": [
     {
       "name": "冰の甜心动",
@@ -9,13 +9,6 @@
       "thumb": "冰_甜心动.bdi_py_26_light_thumb.png",
       "full": "冰_甜心动.bdi_py_26_light_thumb.png",
       "file_id": "asset_367f4cf7cdf645968adeb1557be754ae"
-    },
-    {
-      "name": "冰の甜心动",
-      "file": "冰_甜心动.bds",
-      "thumb": "冰_甜心动.bds_py_26_light_thumb.png",
-      "full": "冰_甜心动.bds_py_26_light_thumb.png",
-      "file_id": "asset_6dd22731d84141949d3fce4a445922be"
     },
     {
       "name": "冰の少女碗",
@@ -30,6 +23,13 @@
       "thumb": "冰_少女碗大动效.bdi_py_26_light_thumb.png",
       "full": "冰_少女碗大动效.bdi_py_26_light_thumb.png",
       "file_id": "asset_4a405f80e2024e4b964b506abff97f79"
+    },
+    {
+      "name": "冰の甜心动",
+      "file": "冰_甜心动.bds",
+      "thumb": "冰_甜心动.bds_py_26_light_thumb.png",
+      "full": "冰_甜心动.bds_py_26_light_thumb.png",
+      "file_id": "asset_6dd22731d84141949d3fce4a445922be"
     }
   ]
 }
