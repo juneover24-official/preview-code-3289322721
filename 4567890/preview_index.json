@@ -1,7 +1,7 @@
 {
   "qq_number": "3289322721",
   "group_number": "4567890",
-  "updated_at": "2026-11-08T09:58:28+00:00",
+  "updated_at": "2026-11-08T09:58:32+00:00",
   "skins": [
     {
       "name": "冰の甜心动",
@@ -254,6 +254,13 @@
       "thumb": "冰_猫爪萌大动效.bds_py_26_light_thumb.png",
       "full": "冰_猫爪萌大动效.bds_py_26_light_thumb.png",
       "file_id": "asset_7699a7ee521b4d23b64b749d262c6543"
+    },
+    {
+      "name": "喵爪萌",
+      "file": "冰_猫爪萌.bds",
+      "thumb": "冰_猫爪萌.bds_py_26_light_thumb.png",
+      "full": "冰_猫爪萌.bds_py_26_light_thumb.png",
+      "file_id": "asset_d1a2470e82ef4b069ddebc211066954b"
     }
   ]
 }
