@@ -1,7 +1,7 @@
 {
   "qq_number": "3289322721",
   "group_number": "4567890",
-  "updated_at": "2026-11-08T09:55:42+00:00",
+  "updated_at": "2026-11-08T09:55:46+00:00",
   "skins": [
     {
       "name": "冰の甜心动",
@@ -79,6 +79,13 @@
       "thumb": "冰_愛的谎言.bds_py_26_light_thumb.png",
       "full": "冰_愛的谎言.bds_py_26_light_thumb.png",
       "file_id": "asset_8d2492f1f620448ab031d81f8b8e8472"
+    },
+    {
+      "name": "冰の愛的谎言",
+      "file": "冰_愛的谎言.bdi",
+      "thumb": "冰_愛的谎言.bdi_py_26_light_thumb.png",
+      "full": "冰_愛的谎言.bdi_py_26_light_thumb.png",
+      "file_id": "asset_d532c9a6ee564fcea043e53876f1ece3"
     }
   ]
 }
