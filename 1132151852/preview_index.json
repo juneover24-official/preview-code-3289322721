@@ -1,7 +1,7 @@
 {
   "qq_number": "3289322721",
   "group_number": "1132151852",
-  "updated_at": "2026-11-11T18:27:42+00:00",
+  "updated_at": "2026-11-11T18:27:49+00:00",
   "skins": [
     {
       "name": "冰の期会保底大动效1",
@@ -32,18 +32,18 @@
       "file_id": "asset_38254cf75e8b40929416705b53984e5b"
     },
     {
-      "name": "冰の期会保底大动效1",
-      "file": "冰_期会保底大动效1.bdi",
-      "thumb": "冰_期会保底大动效1.bdi_py_26_light_thumb.png",
-      "full": "冰_期会保底大动效1.bdi_py_26_light_thumb.png",
-      "file_id": "asset_dae5afd4b20d4f89b33383c64a1a97ea"
-    },
-    {
       "name": "冰の期会保底1",
       "file": "冰_期会保底1.bdi",
       "thumb": "冰_期会保底1.bdi_py_26_light_thumb.png",
       "full": "冰_期会保底1.bdi_py_26_light_thumb.png",
       "file_id": "asset_e803676f9e81487a8130355e191eab06"
+    },
+    {
+      "name": "冰の期会保底大动效1",
+      "file": "冰_期会保底大动效1.bdi",
+      "thumb": "冰_期会保底大动效1.bdi_py_26_light_thumb.png",
+      "full": "冰_期会保底大动效1.bdi_py_26_light_thumb.png",
+      "file_id": "asset_dae5afd4b20d4f89b33383c64a1a97ea"
     }
   ]
 }
