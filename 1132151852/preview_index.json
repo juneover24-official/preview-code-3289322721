@@ -1,7 +1,7 @@
 {
   "qq_number": "3289322721",
   "group_number": "1132151852",
-  "updated_at": "2026-11-12T17:49:17+00:00",
+  "updated_at": "2026-11-16T11:42:16+00:00",
   "skins": [
     {
       "name": "冰の期会保底大动效1",
@@ -72,6 +72,13 @@
       "thumb": "冰_期会保底2.bds_py_26_light_thumb.png",
       "full": "冰_期会保底2.bds_py_26_light_thumb.png",
       "file_id": "asset_c163d37dab454b588274eb65d717b936"
+    },
+    {
+      "name": "冰の期会保底4",
+      "file": "冰_期会保底4.bdi",
+      "thumb": "冰_期会保底4.bdi_py_26_light_thumb.png",
+      "full": "冰_期会保底4.bdi_py_26_light_thumb.png",
+      "file_id": "51422556"
     }
   ]
 }
