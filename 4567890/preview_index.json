@@ -1,7 +1,7 @@
 {
   "qq_number": "3289322721",
   "group_number": "4567890",
-  "updated_at": "2026-11-08T10:23:32+00:00",
+  "updated_at": "2026-11-17T15:25:56+00:00",
   "skins": [
     {
       "name": "冰の甜心动",
@@ -310,6 +310,13 @@
       "thumb": "冰_小猫爪子大动效.bdi_py_26_light_thumb.png",
       "full": "冰_小猫爪子大动效.bdi_py_26_light_thumb.png",
       "file_id": "asset_34ca277b64ac499ab0c4d8e5cf8127f1"
+    },
+    {
+      "name": "冰の恋兔守则",
+      "file": "冰_恋兔守则.bdi",
+      "thumb": "冰_恋兔守则.bdi_py_26_light_thumb.png",
+      "full": "冰_恋兔守则.bdi_py_26_light_thumb.png",
+      "file_id": "51561535"
     }
   ]
 }
